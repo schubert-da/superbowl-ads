@@ -19,7 +19,7 @@ const makeAnnotationsBudweiser = d3.annotation()
 
 const annotations_nfl = [{
     note: {
-        label: "What separates the NFL from other brands is that the cast of celebrities in its ads consists almost solely of popular names from NFL history.",
+        label: "What separates the NFL from other brands is that its cast of celebrities consists almost solely of popular names from NFL history.",
         title: "The NFL's stars",
         wrap: 180
     },
