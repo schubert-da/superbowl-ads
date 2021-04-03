@@ -1,0 +1,683 @@
+sets,label,figure,size,brand,total
+funny,funny,6,6,Toyota,11
+patriotic,patriotic,2,2,Toyota,11
+celebrity,celebrity,2,2,Toyota,11
+danger,danger,4,4,Toyota,11
+animals,animals,3,3,Toyota,11
+use sex,use sex,1,1,Toyota,11
+funny and patriotic,funny and patriotic,1,1,Toyota,11
+funny and celebrity,funny and celebrity,2,2,Toyota,11
+funny and danger,funny and danger,4,4,Toyota,11
+funny and animals,funny and animals,3,3,Toyota,11
+funny and use sex,funny and use sex,1,1,Toyota,11
+patriotic and celebrity,patriotic and celebrity,0,0,Toyota,11
+patriotic and danger,patriotic and danger,0,0,Toyota,11
+patriotic and animals,patriotic and animals,0,0,Toyota,11
+patriotic and use sex,patriotic and use sex,0,0,Toyota,11
+celebrity and danger,celebrity and danger,1,1,Toyota,11
+celebrity and animals,celebrity and animals,2,2,Toyota,11
+celebrity and use sex,celebrity and use sex,0,0,Toyota,11
+danger and animals,danger and animals,2,2,Toyota,11
+danger and use sex,danger and use sex,1,1,Toyota,11
+animals and use sex,animals and use sex,1,1,Toyota,11
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,Toyota,11
+funny and patriotic and danger,funny and patriotic and danger,0,0,Toyota,11
+funny and patriotic and animals,funny and patriotic and animals,0,0,Toyota,11
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Toyota,11
+funny and celebrity and danger,funny and celebrity and danger,1,1,Toyota,11
+funny and celebrity and animals,funny and celebrity and animals,2,2,Toyota,11
+funny and celebrity and use sex,funny and celebrity and use sex,0,0,Toyota,11
+funny and danger and animals,funny and danger and animals,2,2,Toyota,11
+funny and danger and use sex,funny and danger and use sex,1,1,Toyota,11
+funny and animals and use sex,funny and animals and use sex,1,1,Toyota,11
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,Toyota,11
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Toyota,11
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Toyota,11
+patriotic and danger and animals,patriotic and danger and animals,0,0,Toyota,11
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Toyota,11
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,Toyota,11
+celebrity and danger and animals,celebrity and danger and animals,1,1,Toyota,11
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,Toyota,11
+celebrity and animals and use sex,celebrity and animals and use sex,0,0,Toyota,11
+danger and animals and use sex,danger and animals and use sex,1,1,Toyota,11
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Toyota,11
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Toyota,11
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Toyota,11
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Toyota,11
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Toyota,11
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Toyota,11
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,1,1,Toyota,11
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,Toyota,11
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,0,0,Toyota,11
+funny and danger and animals and use sex,funny and danger and animals and use sex,1,1,Toyota,11
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Toyota,11
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Toyota,11
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Toyota,11
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Toyota,11
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Toyota,11
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Toyota,11
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Toyota,11
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Toyota,11
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Toyota,11
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Toyota,11
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Toyota,11
+funny,funny,57,57,Bud Light,60
+patriotic,patriotic,3,3,Bud Light,60
+celebrity,celebrity,14,14,Bud Light,60
+danger,danger,27,27,Bud Light,60
+animals,animals,21,21,Bud Light,60
+use sex,use sex,24,24,Bud Light,60
+funny and patriotic,funny and patriotic,3,3,Bud Light,60
+funny and celebrity,funny and celebrity,13,13,Bud Light,60
+funny and danger,funny and danger,27,27,Bud Light,60
+funny and animals,funny and animals,20,20,Bud Light,60
+funny and use sex,funny and use sex,23,23,Bud Light,60
+patriotic and celebrity,patriotic and celebrity,3,3,Bud Light,60
+patriotic and danger,patriotic and danger,1,1,Bud Light,60
+patriotic and animals,patriotic and animals,2,2,Bud Light,60
+patriotic and use sex,patriotic and use sex,2,2,Bud Light,60
+celebrity and danger,celebrity and danger,3,3,Bud Light,60
+celebrity and animals,celebrity and animals,4,4,Bud Light,60
+celebrity and use sex,celebrity and use sex,9,9,Bud Light,60
+danger and animals,danger and animals,12,12,Bud Light,60
+danger and use sex,danger and use sex,11,11,Bud Light,60
+animals and use sex,animals and use sex,10,10,Bud Light,60
+funny and patriotic and celebrity,funny and patriotic and celebrity,3,3,Bud Light,60
+funny and patriotic and danger,funny and patriotic and danger,1,1,Bud Light,60
+funny and patriotic and animals,funny and patriotic and animals,2,2,Bud Light,60
+funny and patriotic and use sex,funny and patriotic and use sex,2,2,Bud Light,60
+funny and celebrity and danger,funny and celebrity and danger,3,3,Bud Light,60
+funny and celebrity and animals,funny and celebrity and animals,3,3,Bud Light,60
+funny and celebrity and use sex,funny and celebrity and use sex,8,8,Bud Light,60
+funny and danger and animals,funny and danger and animals,12,12,Bud Light,60
+funny and danger and use sex,funny and danger and use sex,11,11,Bud Light,60
+funny and animals and use sex,funny and animals and use sex,9,9,Bud Light,60
+patriotic and celebrity and danger,patriotic and celebrity and danger,1,1,Bud Light,60
+patriotic and celebrity and animals,patriotic and celebrity and animals,2,2,Bud Light,60
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,2,2,Bud Light,60
+patriotic and danger and animals,patriotic and danger and animals,1,1,Bud Light,60
+patriotic and danger and use sex,patriotic and danger and use sex,1,1,Bud Light,60
+patriotic and animals and use sex,patriotic and animals and use sex,1,1,Bud Light,60
+celebrity and danger and animals,celebrity and danger and animals,1,1,Bud Light,60
+celebrity and danger and use sex,celebrity and danger and use sex,2,2,Bud Light,60
+celebrity and animals and use sex,celebrity and animals and use sex,3,3,Bud Light,60
+danger and animals and use sex,danger and animals and use sex,6,6,Bud Light,60
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,1,1,Bud Light,60
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,2,2,Bud Light,60
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,2,2,Bud Light,60
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,1,1,Bud Light,60
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,1,1,Bud Light,60
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,1,1,Bud Light,60
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,1,1,Bud Light,60
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,2,2,Bud Light,60
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,2,2,Bud Light,60
+funny and danger and animals and use sex,funny and danger and animals and use sex,6,6,Bud Light,60
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,1,1,Bud Light,60
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,1,1,Bud Light,60
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,1,1,Bud Light,60
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,1,1,Bud Light,60
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,1,1,Bud Light,60
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,1,1,Bud Light,60
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,1,1,Bud Light,60
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,1,1,Bud Light,60
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,1,1,Bud Light,60
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,1,1,Bud Light,60
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,1,1,Bud Light,60
+funny,funny,12,12,Hynudai,22
+patriotic,patriotic,3,3,Hynudai,22
+celebrity,celebrity,6,6,Hynudai,22
+danger,danger,6,6,Hynudai,22
+animals,animals,7,7,Hynudai,22
+use sex,use sex,3,3,Hynudai,22
+funny and patriotic,funny and patriotic,1,1,Hynudai,22
+funny and celebrity,funny and celebrity,5,5,Hynudai,22
+funny and danger,funny and danger,6,6,Hynudai,22
+funny and animals,funny and animals,5,5,Hynudai,22
+funny and use sex,funny and use sex,3,3,Hynudai,22
+patriotic and celebrity,patriotic and celebrity,1,1,Hynudai,22
+patriotic and danger,patriotic and danger,0,0,Hynudai,22
+patriotic and animals,patriotic and animals,0,0,Hynudai,22
+patriotic and use sex,patriotic and use sex,0,0,Hynudai,22
+celebrity and danger,celebrity and danger,1,1,Hynudai,22
+celebrity and animals,celebrity and animals,2,2,Hynudai,22
+celebrity and use sex,celebrity and use sex,2,2,Hynudai,22
+danger and animals,danger and animals,3,3,Hynudai,22
+danger and use sex,danger and use sex,2,2,Hynudai,22
+animals and use sex,animals and use sex,1,1,Hynudai,22
+funny and patriotic and celebrity,funny and patriotic and celebrity,1,1,Hynudai,22
+funny and patriotic and danger,funny and patriotic and danger,0,0,Hynudai,22
+funny and patriotic and animals,funny and patriotic and animals,0,0,Hynudai,22
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Hynudai,22
+funny and celebrity and danger,funny and celebrity and danger,1,1,Hynudai,22
+funny and celebrity and animals,funny and celebrity and animals,2,2,Hynudai,22
+funny and celebrity and use sex,funny and celebrity and use sex,2,2,Hynudai,22
+funny and danger and animals,funny and danger and animals,3,3,Hynudai,22
+funny and danger and use sex,funny and danger and use sex,2,2,Hynudai,22
+funny and animals and use sex,funny and animals and use sex,1,1,Hynudai,22
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,Hynudai,22
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Hynudai,22
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Hynudai,22
+patriotic and danger and animals,patriotic and danger and animals,0,0,Hynudai,22
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Hynudai,22
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,Hynudai,22
+celebrity and danger and animals,celebrity and danger and animals,0,0,Hynudai,22
+celebrity and danger and use sex,celebrity and danger and use sex,1,1,Hynudai,22
+celebrity and animals and use sex,celebrity and animals and use sex,1,1,Hynudai,22
+danger and animals and use sex,danger and animals and use sex,0,0,Hynudai,22
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Hynudai,22
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Hynudai,22
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Hynudai,22
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Hynudai,22
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Hynudai,22
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Hynudai,22
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,0,0,Hynudai,22
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,1,1,Hynudai,22
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,1,1,Hynudai,22
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,Hynudai,22
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Hynudai,22
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Hynudai,22
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Hynudai,22
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Hynudai,22
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Hynudai,22
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Hynudai,22
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Hynudai,22
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Hynudai,22
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Hynudai,22
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Hynudai,22
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Hynudai,22
+funny,funny,8,8,Coca-Cola,21
+patriotic,patriotic,5,5,Coca-Cola,21
+celebrity,celebrity,6,6,Coca-Cola,21
+danger,danger,6,6,Coca-Cola,21
+animals,animals,12,12,Coca-Cola,21
+use sex,use sex,1,1,Coca-Cola,21
+funny and patriotic,funny and patriotic,1,1,Coca-Cola,21
+funny and celebrity,funny and celebrity,5,5,Coca-Cola,21
+funny and danger,funny and danger,4,4,Coca-Cola,21
+funny and animals,funny and animals,4,4,Coca-Cola,21
+funny and use sex,funny and use sex,0,0,Coca-Cola,21
+patriotic and celebrity,patriotic and celebrity,1,1,Coca-Cola,21
+patriotic and danger,patriotic and danger,1,1,Coca-Cola,21
+patriotic and animals,patriotic and animals,3,3,Coca-Cola,21
+patriotic and use sex,patriotic and use sex,0,0,Coca-Cola,21
+celebrity and danger,celebrity and danger,3,3,Coca-Cola,21
+celebrity and animals,celebrity and animals,2,2,Coca-Cola,21
+celebrity and use sex,celebrity and use sex,0,0,Coca-Cola,21
+danger and animals,danger and animals,4,4,Coca-Cola,21
+danger and use sex,danger and use sex,0,0,Coca-Cola,21
+animals and use sex,animals and use sex,0,0,Coca-Cola,21
+funny and patriotic and celebrity,funny and patriotic and celebrity,1,1,Coca-Cola,21
+funny and patriotic and danger,funny and patriotic and danger,0,0,Coca-Cola,21
+funny and patriotic and animals,funny and patriotic and animals,0,0,Coca-Cola,21
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Coca-Cola,21
+funny and celebrity and danger,funny and celebrity and danger,3,3,Coca-Cola,21
+funny and celebrity and animals,funny and celebrity and animals,2,2,Coca-Cola,21
+funny and celebrity and use sex,funny and celebrity and use sex,0,0,Coca-Cola,21
+funny and danger and animals,funny and danger and animals,2,2,Coca-Cola,21
+funny and danger and use sex,funny and danger and use sex,0,0,Coca-Cola,21
+funny and animals and use sex,funny and animals and use sex,0,0,Coca-Cola,21
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,Coca-Cola,21
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Coca-Cola,21
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Coca-Cola,21
+patriotic and danger and animals,patriotic and danger and animals,1,1,Coca-Cola,21
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Coca-Cola,21
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,Coca-Cola,21
+celebrity and danger and animals,celebrity and danger and animals,1,1,Coca-Cola,21
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,Coca-Cola,21
+celebrity and animals and use sex,celebrity and animals and use sex,0,0,Coca-Cola,21
+danger and animals and use sex,danger and animals and use sex,0,0,Coca-Cola,21
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Coca-Cola,21
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Coca-Cola,21
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Coca-Cola,21
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Coca-Cola,21
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Coca-Cola,21
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Coca-Cola,21
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,1,1,Coca-Cola,21
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,Coca-Cola,21
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,0,0,Coca-Cola,21
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,Coca-Cola,21
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Coca-Cola,21
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Coca-Cola,21
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Coca-Cola,21
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Coca-Cola,21
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Coca-Cola,21
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Coca-Cola,21
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Coca-Cola,21
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Coca-Cola,21
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Coca-Cola,21
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Coca-Cola,21
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Coca-Cola,21
+funny,funny,8,8,Kia,13
+patriotic,patriotic,2,2,Kia,13
+celebrity,celebrity,7,7,Kia,13
+danger,danger,5,5,Kia,13
+animals,animals,5,5,Kia,13
+use sex,use sex,6,6,Kia,13
+funny and patriotic,funny and patriotic,0,0,Kia,13
+funny and celebrity,funny and celebrity,4,4,Kia,13
+funny and danger,funny and danger,4,4,Kia,13
+funny and animals,funny and animals,4,4,Kia,13
+funny and use sex,funny and use sex,6,6,Kia,13
+patriotic and celebrity,patriotic and celebrity,0,0,Kia,13
+patriotic and danger,patriotic and danger,0,0,Kia,13
+patriotic and animals,patriotic and animals,1,1,Kia,13
+patriotic and use sex,patriotic and use sex,0,0,Kia,13
+celebrity and danger,celebrity and danger,3,3,Kia,13
+celebrity and animals,celebrity and animals,2,2,Kia,13
+celebrity and use sex,celebrity and use sex,2,2,Kia,13
+danger and animals,danger and animals,2,2,Kia,13
+danger and use sex,danger and use sex,3,3,Kia,13
+animals and use sex,animals and use sex,3,3,Kia,13
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,Kia,13
+funny and patriotic and danger,funny and patriotic and danger,0,0,Kia,13
+funny and patriotic and animals,funny and patriotic and animals,0,0,Kia,13
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Kia,13
+funny and celebrity and danger,funny and celebrity and danger,2,2,Kia,13
+funny and celebrity and animals,funny and celebrity and animals,2,2,Kia,13
+funny and celebrity and use sex,funny and celebrity and use sex,2,2,Kia,13
+funny and danger and animals,funny and danger and animals,2,2,Kia,13
+funny and danger and use sex,funny and danger and use sex,3,3,Kia,13
+funny and animals and use sex,funny and animals and use sex,3,3,Kia,13
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,Kia,13
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Kia,13
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Kia,13
+patriotic and danger and animals,patriotic and danger and animals,0,0,Kia,13
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Kia,13
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,Kia,13
+celebrity and danger and animals,celebrity and danger and animals,2,2,Kia,13
+celebrity and danger and use sex,celebrity and danger and use sex,1,1,Kia,13
+celebrity and animals and use sex,celebrity and animals and use sex,1,1,Kia,13
+danger and animals and use sex,danger and animals and use sex,1,1,Kia,13
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Kia,13
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Kia,13
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Kia,13
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Kia,13
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Kia,13
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Kia,13
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,2,2,Kia,13
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,1,1,Kia,13
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,1,1,Kia,13
+funny and danger and animals and use sex,funny and danger and animals and use sex,1,1,Kia,13
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Kia,13
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Kia,13
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Kia,13
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Kia,13
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,1,1,Kia,13
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Kia,13
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Kia,13
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Kia,13
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Kia,13
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,1,1,Kia,13
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Kia,13
+funny,funny,21,21,Budweiser,43
+patriotic,patriotic,16,16,Budweiser,43
+celebrity,celebrity,5,5,Budweiser,43
+danger,danger,7,7,Budweiser,43
+animals,animals,24,24,Budweiser,43
+use sex,use sex,8,8,Budweiser,43
+funny and patriotic,funny and patriotic,2,2,Budweiser,43
+funny and celebrity,funny and celebrity,1,1,Budweiser,43
+funny and danger,funny and danger,3,3,Budweiser,43
+funny and animals,funny and animals,10,10,Budweiser,43
+funny and use sex,funny and use sex,5,5,Budweiser,43
+patriotic and celebrity,patriotic and celebrity,1,1,Budweiser,43
+patriotic and danger,patriotic and danger,3,3,Budweiser,43
+patriotic and animals,patriotic and animals,13,13,Budweiser,43
+patriotic and use sex,patriotic and use sex,1,1,Budweiser,43
+celebrity and danger,celebrity and danger,1,1,Budweiser,43
+celebrity and animals,celebrity and animals,1,1,Budweiser,43
+celebrity and use sex,celebrity and use sex,1,1,Budweiser,43
+danger and animals,danger and animals,4,4,Budweiser,43
+danger and use sex,danger and use sex,0,0,Budweiser,43
+animals and use sex,animals and use sex,4,4,Budweiser,43
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,Budweiser,43
+funny and patriotic and danger,funny and patriotic and danger,0,0,Budweiser,43
+funny and patriotic and animals,funny and patriotic and animals,2,2,Budweiser,43
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Budweiser,43
+funny and celebrity and danger,funny and celebrity and danger,0,0,Budweiser,43
+funny and celebrity and animals,funny and celebrity and animals,1,1,Budweiser,43
+funny and celebrity and use sex,funny and celebrity and use sex,1,1,Budweiser,43
+funny and danger and animals,funny and danger and animals,2,2,Budweiser,43
+funny and danger and use sex,funny and danger and use sex,0,0,Budweiser,43
+funny and animals and use sex,funny and animals and use sex,3,3,Budweiser,43
+patriotic and celebrity and danger,patriotic and celebrity and danger,1,1,Budweiser,43
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Budweiser,43
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Budweiser,43
+patriotic and danger and animals,patriotic and danger and animals,1,1,Budweiser,43
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Budweiser,43
+patriotic and animals and use sex,patriotic and animals and use sex,1,1,Budweiser,43
+celebrity and danger and animals,celebrity and danger and animals,0,0,Budweiser,43
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,Budweiser,43
+celebrity and animals and use sex,celebrity and animals and use sex,1,1,Budweiser,43
+danger and animals and use sex,danger and animals and use sex,0,0,Budweiser,43
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Budweiser,43
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Budweiser,43
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Budweiser,43
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Budweiser,43
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Budweiser,43
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Budweiser,43
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,0,0,Budweiser,43
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,Budweiser,43
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,1,1,Budweiser,43
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,Budweiser,43
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Budweiser,43
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Budweiser,43
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Budweiser,43
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Budweiser,43
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Budweiser,43
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Budweiser,43
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Budweiser,43
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Budweiser,43
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Budweiser,43
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Budweiser,43
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Budweiser,43
+funny,funny,2,2,NFL,11
+patriotic,patriotic,4,4,NFL,11
+celebrity,celebrity,8,8,NFL,11
+danger,danger,0,0,NFL,11
+animals,animals,0,0,NFL,11
+use sex,use sex,0,0,NFL,11
+funny and patriotic,funny and patriotic,0,0,NFL,11
+funny and celebrity,funny and celebrity,2,2,NFL,11
+funny and danger,funny and danger,0,0,NFL,11
+funny and animals,funny and animals,0,0,NFL,11
+funny and use sex,funny and use sex,0,0,NFL,11
+patriotic and celebrity,patriotic and celebrity,3,3,NFL,11
+patriotic and danger,patriotic and danger,0,0,NFL,11
+patriotic and animals,patriotic and animals,0,0,NFL,11
+patriotic and use sex,patriotic and use sex,0,0,NFL,11
+celebrity and danger,celebrity and danger,0,0,NFL,11
+celebrity and animals,celebrity and animals,0,0,NFL,11
+celebrity and use sex,celebrity and use sex,0,0,NFL,11
+danger and animals,danger and animals,0,0,NFL,11
+danger and use sex,danger and use sex,0,0,NFL,11
+animals and use sex,animals and use sex,0,0,NFL,11
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,NFL,11
+funny and patriotic and danger,funny and patriotic and danger,0,0,NFL,11
+funny and patriotic and animals,funny and patriotic and animals,0,0,NFL,11
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,NFL,11
+funny and celebrity and danger,funny and celebrity and danger,0,0,NFL,11
+funny and celebrity and animals,funny and celebrity and animals,0,0,NFL,11
+funny and celebrity and use sex,funny and celebrity and use sex,0,0,NFL,11
+funny and danger and animals,funny and danger and animals,0,0,NFL,11
+funny and danger and use sex,funny and danger and use sex,0,0,NFL,11
+funny and animals and use sex,funny and animals and use sex,0,0,NFL,11
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,NFL,11
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,NFL,11
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,NFL,11
+patriotic and danger and animals,patriotic and danger and animals,0,0,NFL,11
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,NFL,11
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,NFL,11
+celebrity and danger and animals,celebrity and danger and animals,0,0,NFL,11
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,NFL,11
+celebrity and animals and use sex,celebrity and animals and use sex,0,0,NFL,11
+danger and animals and use sex,danger and animals and use sex,0,0,NFL,11
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,NFL,11
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,NFL,11
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,NFL,11
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,NFL,11
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,NFL,11
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,NFL,11
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,0,0,NFL,11
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,NFL,11
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,0,0,NFL,11
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,NFL,11
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,NFL,11
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,NFL,11
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,NFL,11
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,NFL,11
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,NFL,11
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,NFL,11
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,NFL,11
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,NFL,11
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,NFL,11
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,NFL,11
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,NFL,11
+funny,funny,18,18,Pepsi,25
+patriotic,patriotic,3,3,Pepsi,25
+celebrity,celebrity,16,16,Pepsi,25
+danger,danger,6,6,Pepsi,25
+animals,animals,3,3,Pepsi,25
+use sex,use sex,11,11,Pepsi,25
+funny and patriotic,funny and patriotic,1,1,Pepsi,25
+funny and celebrity,funny and celebrity,10,10,Pepsi,25
+funny and danger,funny and danger,5,5,Pepsi,25
+funny and animals,funny and animals,2,2,Pepsi,25
+funny and use sex,funny and use sex,10,10,Pepsi,25
+patriotic and celebrity,patriotic and celebrity,3,3,Pepsi,25
+patriotic and danger,patriotic and danger,1,1,Pepsi,25
+patriotic and animals,patriotic and animals,1,1,Pepsi,25
+patriotic and use sex,patriotic and use sex,1,1,Pepsi,25
+celebrity and danger,celebrity and danger,4,4,Pepsi,25
+celebrity and animals,celebrity and animals,1,1,Pepsi,25
+celebrity and use sex,celebrity and use sex,7,7,Pepsi,25
+danger and animals,danger and animals,0,0,Pepsi,25
+danger and use sex,danger and use sex,2,2,Pepsi,25
+animals and use sex,animals and use sex,1,1,Pepsi,25
+funny and patriotic and celebrity,funny and patriotic and celebrity,1,1,Pepsi,25
+funny and patriotic and danger,funny and patriotic and danger,0,0,Pepsi,25
+funny and patriotic and animals,funny and patriotic and animals,1,1,Pepsi,25
+funny and patriotic and use sex,funny and patriotic and use sex,1,1,Pepsi,25
+funny and celebrity and danger,funny and celebrity and danger,3,3,Pepsi,25
+funny and celebrity and animals,funny and celebrity and animals,1,1,Pepsi,25
+funny and celebrity and use sex,funny and celebrity and use sex,6,6,Pepsi,25
+funny and danger and animals,funny and danger and animals,0,0,Pepsi,25
+funny and danger and use sex,funny and danger and use sex,2,2,Pepsi,25
+funny and animals and use sex,funny and animals and use sex,1,1,Pepsi,25
+patriotic and celebrity and danger,patriotic and celebrity and danger,1,1,Pepsi,25
+patriotic and celebrity and animals,patriotic and celebrity and animals,1,1,Pepsi,25
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,1,1,Pepsi,25
+patriotic and danger and animals,patriotic and danger and animals,0,0,Pepsi,25
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Pepsi,25
+patriotic and animals and use sex,patriotic and animals and use sex,1,1,Pepsi,25
+celebrity and danger and animals,celebrity and danger and animals,0,0,Pepsi,25
+celebrity and danger and use sex,celebrity and danger and use sex,1,1,Pepsi,25
+celebrity and animals and use sex,celebrity and animals and use sex,1,1,Pepsi,25
+danger and animals and use sex,danger and animals and use sex,0,0,Pepsi,25
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Pepsi,25
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,1,1,Pepsi,25
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,1,1,Pepsi,25
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Pepsi,25
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Pepsi,25
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,1,1,Pepsi,25
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,0,0,Pepsi,25
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,1,1,Pepsi,25
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,1,1,Pepsi,25
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,Pepsi,25
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Pepsi,25
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Pepsi,25
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,1,1,Pepsi,25
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Pepsi,25
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Pepsi,25
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Pepsi,25
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Pepsi,25
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,1,1,Pepsi,25
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Pepsi,25
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Pepsi,25
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Pepsi,25
+funny,funny,24,24,Doritos,25
+patriotic,patriotic,1,1,Doritos,25
+celebrity,celebrity,4,4,Doritos,25
+danger,danger,11,11,Doritos,25
+animals,animals,10,10,Doritos,25
+use sex,use sex,6,6,Doritos,25
+funny and patriotic,funny and patriotic,1,1,Doritos,25
+funny and celebrity,funny and celebrity,3,3,Doritos,25
+funny and danger,funny and danger,11,11,Doritos,25
+funny and animals,funny and animals,10,10,Doritos,25
+funny and use sex,funny and use sex,6,6,Doritos,25
+patriotic and celebrity,patriotic and celebrity,0,0,Doritos,25
+patriotic and danger,patriotic and danger,0,0,Doritos,25
+patriotic and animals,patriotic and animals,1,1,Doritos,25
+patriotic and use sex,patriotic and use sex,0,0,Doritos,25
+celebrity and danger,celebrity and danger,1,1,Doritos,25
+celebrity and animals,celebrity and animals,1,1,Doritos,25
+celebrity and use sex,celebrity and use sex,1,1,Doritos,25
+danger and animals,danger and animals,6,6,Doritos,25
+danger and use sex,danger and use sex,3,3,Doritos,25
+animals and use sex,animals and use sex,1,1,Doritos,25
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,Doritos,25
+funny and patriotic and danger,funny and patriotic and danger,0,0,Doritos,25
+funny and patriotic and animals,funny and patriotic and animals,1,1,Doritos,25
+funny and patriotic and use sex,funny and patriotic and use sex,0,0,Doritos,25
+funny and celebrity and danger,funny and celebrity and danger,1,1,Doritos,25
+funny and celebrity and animals,funny and celebrity and animals,1,1,Doritos,25
+funny and celebrity and use sex,funny and celebrity and use sex,1,1,Doritos,25
+funny and danger and animals,funny and danger and animals,6,6,Doritos,25
+funny and danger and use sex,funny and danger and use sex,3,3,Doritos,25
+funny and animals and use sex,funny and animals and use sex,1,1,Doritos,25
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,Doritos,25
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,Doritos,25
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,Doritos,25
+patriotic and danger and animals,patriotic and danger and animals,0,0,Doritos,25
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,Doritos,25
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,Doritos,25
+celebrity and danger and animals,celebrity and danger and animals,1,1,Doritos,25
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,Doritos,25
+celebrity and animals and use sex,celebrity and animals and use sex,0,0,Doritos,25
+danger and animals and use sex,danger and animals and use sex,1,1,Doritos,25
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,Doritos,25
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,Doritos,25
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,Doritos,25
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,Doritos,25
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,Doritos,25
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,Doritos,25
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,1,1,Doritos,25
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,Doritos,25
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,0,0,Doritos,25
+funny and danger and animals and use sex,funny and danger and animals and use sex,1,1,Doritos,25
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,Doritos,25
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,Doritos,25
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,Doritos,25
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,Doritos,25
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,Doritos,25
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,Doritos,25
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,Doritos,25
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,Doritos,25
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,Doritos,25
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,Doritos,25
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,Doritos,25
+funny,funny,12,12,E-Trade,13
+patriotic,patriotic,2,2,E-Trade,13
+celebrity,celebrity,0,0,E-Trade,13
+danger,danger,3,3,E-Trade,13
+animals,animals,4,4,E-Trade,13
+use sex,use sex,3,3,E-Trade,13
+funny and patriotic,funny and patriotic,2,2,E-Trade,13
+funny and celebrity,funny and celebrity,0,0,E-Trade,13
+funny and danger,funny and danger,2,2,E-Trade,13
+funny and animals,funny and animals,3,3,E-Trade,13
+funny and use sex,funny and use sex,3,3,E-Trade,13
+patriotic and celebrity,patriotic and celebrity,0,0,E-Trade,13
+patriotic and danger,patriotic and danger,0,0,E-Trade,13
+patriotic and animals,patriotic and animals,0,0,E-Trade,13
+patriotic and use sex,patriotic and use sex,1,1,E-Trade,13
+celebrity and danger,celebrity and danger,0,0,E-Trade,13
+celebrity and animals,celebrity and animals,0,0,E-Trade,13
+celebrity and use sex,celebrity and use sex,0,0,E-Trade,13
+danger and animals,danger and animals,1,1,E-Trade,13
+danger and use sex,danger and use sex,0,0,E-Trade,13
+animals and use sex,animals and use sex,1,1,E-Trade,13
+funny and patriotic and celebrity,funny and patriotic and celebrity,0,0,E-Trade,13
+funny and patriotic and danger,funny and patriotic and danger,0,0,E-Trade,13
+funny and patriotic and animals,funny and patriotic and animals,0,0,E-Trade,13
+funny and patriotic and use sex,funny and patriotic and use sex,1,1,E-Trade,13
+funny and celebrity and danger,funny and celebrity and danger,0,0,E-Trade,13
+funny and celebrity and animals,funny and celebrity and animals,0,0,E-Trade,13
+funny and celebrity and use sex,funny and celebrity and use sex,0,0,E-Trade,13
+funny and danger and animals,funny and danger and animals,0,0,E-Trade,13
+funny and danger and use sex,funny and danger and use sex,0,0,E-Trade,13
+funny and animals and use sex,funny and animals and use sex,1,1,E-Trade,13
+patriotic and celebrity and danger,patriotic and celebrity and danger,0,0,E-Trade,13
+patriotic and celebrity and animals,patriotic and celebrity and animals,0,0,E-Trade,13
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,0,0,E-Trade,13
+patriotic and danger and animals,patriotic and danger and animals,0,0,E-Trade,13
+patriotic and danger and use sex,patriotic and danger and use sex,0,0,E-Trade,13
+patriotic and animals and use sex,patriotic and animals and use sex,0,0,E-Trade,13
+celebrity and danger and animals,celebrity and danger and animals,0,0,E-Trade,13
+celebrity and danger and use sex,celebrity and danger and use sex,0,0,E-Trade,13
+celebrity and animals and use sex,celebrity and animals and use sex,0,0,E-Trade,13
+danger and animals and use sex,danger and animals and use sex,0,0,E-Trade,13
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,0,0,E-Trade,13
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,0,0,E-Trade,13
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,0,0,E-Trade,13
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,0,0,E-Trade,13
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,0,0,E-Trade,13
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,0,0,E-Trade,13
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,0,0,E-Trade,13
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,0,0,E-Trade,13
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,0,0,E-Trade,13
+funny and danger and animals and use sex,funny and danger and animals and use sex,0,0,E-Trade,13
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,0,0,E-Trade,13
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,0,0,E-Trade,13
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,0,0,E-Trade,13
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,0,0,E-Trade,13
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,0,0,E-Trade,13
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,0,0,E-Trade,13
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,0,0,E-Trade,13
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,0,0,E-Trade,13
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,0,0,E-Trade,13
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,0,0,E-Trade,13
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,0,0,E-Trade,13
+funny,funny,168,168,All brands,244
+patriotic,patriotic,41,41,All brands,244
+celebrity,celebrity,68,68,All brands,244
+danger,danger,75,75,All brands,244
+animals,animals,89,89,All brands,244
+use sex,use sex,63,63,All brands,244
+funny and patriotic,funny and patriotic,12,12,All brands,244
+funny and celebrity,funny and celebrity,45,45,All brands,244
+funny and danger,funny and danger,66,66,All brands,244
+funny and animals,funny and animals,61,61,All brands,244
+funny and use sex,funny and use sex,57,57,All brands,244
+patriotic and celebrity,patriotic and celebrity,12,12,All brands,244
+patriotic and danger,patriotic and danger,6,6,All brands,244
+patriotic and animals,patriotic and animals,21,21,All brands,244
+patriotic and use sex,patriotic and use sex,5,5,All brands,244
+celebrity and danger,celebrity and danger,17,17,All brands,244
+celebrity and animals,celebrity and animals,15,15,All brands,244
+celebrity and use sex,celebrity and use sex,22,22,All brands,244
+danger and animals,danger and animals,34,34,All brands,244
+danger and use sex,danger and use sex,22,22,All brands,244
+animals and use sex,animals and use sex,22,22,All brands,244
+funny and patriotic and celebrity,funny and patriotic and celebrity,6,6,All brands,244
+funny and patriotic and danger,funny and patriotic and danger,1,1,All brands,244
+funny and patriotic and animals,funny and patriotic and animals,6,6,All brands,244
+funny and patriotic and use sex,funny and patriotic and use sex,4,4,All brands,244
+funny and celebrity and danger,funny and celebrity and danger,14,14,All brands,244
+funny and celebrity and animals,funny and celebrity and animals,14,14,All brands,244
+funny and celebrity and use sex,funny and celebrity and use sex,20,20,All brands,244
+funny and danger and animals,funny and danger and animals,29,29,All brands,244
+funny and danger and use sex,funny and danger and use sex,22,22,All brands,244
+funny and animals and use sex,funny and animals and use sex,20,20,All brands,244
+patriotic and celebrity and danger,patriotic and celebrity and danger,3,3,All brands,244
+patriotic and celebrity and animals,patriotic and celebrity and animals,3,3,All brands,244
+patriotic and celebrity and use sex,patriotic and celebrity and use sex,3,3,All brands,244
+patriotic and danger and animals,patriotic and danger and animals,3,3,All brands,244
+patriotic and danger and use sex,patriotic and danger and use sex,1,1,All brands,244
+patriotic and animals and use sex,patriotic and animals and use sex,3,3,All brands,244
+celebrity and danger and animals,celebrity and danger and animals,6,6,All brands,244
+celebrity and danger and use sex,celebrity and danger and use sex,5,5,All brands,244
+celebrity and animals and use sex,celebrity and animals and use sex,7,7,All brands,244
+danger and animals and use sex,danger and animals and use sex,9,9,All brands,244
+funny and patriotic and celebrity and danger,funny and patriotic and celebrity and danger,1,1,All brands,244
+funny and patriotic and celebrity and animals,funny and patriotic and celebrity and animals,3,3,All brands,244
+funny and patriotic and celebrity and use sex,funny and patriotic and celebrity and use sex,3,3,All brands,244
+funny and patriotic and danger and animals,funny and patriotic and danger and animals,1,1,All brands,244
+funny and patriotic and danger and use sex,funny and patriotic and danger and use sex,1,1,All brands,244
+funny and patriotic and animals and use sex,funny and patriotic and animals and use sex,2,2,All brands,244
+funny and celebrity and danger and animals,funny and celebrity and danger and animals,6,6,All brands,244
+funny and celebrity and danger and use sex,funny and celebrity and danger and use sex,5,5,All brands,244
+funny and celebrity and animals and use sex,funny and celebrity and animals and use sex,6,6,All brands,244
+funny and danger and animals and use sex,funny and danger and animals and use sex,9,9,All brands,244
+patriotic and celebrity and danger and animals,patriotic and celebrity and danger and animals,1,1,All brands,244
+patriotic and celebrity and danger and use sex,patriotic and celebrity and danger and use sex,1,1,All brands,244
+patriotic and celebrity and animals and use sex,patriotic and celebrity and animals and use sex,2,2,All brands,244
+patriotic and danger and animals and use sex,patriotic and danger and animals and use sex,1,1,All brands,244
+celebrity and danger and animals and use sex,celebrity and danger and animals and use sex,2,2,All brands,244
+funny and patriotic and celebrity and danger and animals,funny and patriotic and celebrity and danger and animals,1,1,All brands,244
+funny and patriotic and celebrity and danger and use sex,funny and patriotic and celebrity and danger and use sex,1,1,All brands,244
+funny and patriotic and celebrity and animals and use sex,funny and patriotic and celebrity and animals and use sex,2,2,All brands,244
+funny and patriotic and danger and animals and use sex,funny and patriotic and danger and animals and use sex,1,1,All brands,244
+funny and celebrity and danger and animals and use sex,funny and celebrity and danger and animals and use sex,2,2,All brands,244
+patriotic and celebrity and danger and animals and use sex,patriotic and celebrity and danger and animals and use sex,1,1,All brands,244

@@ -1,0 +1,136 @@
+<!doctype html>
+
+<head>
+
+    <title> Super Bowl Commercials</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.js" integrity="sha512-i5KYIxbiaWWS/u6XawTW17Ig3YgjXlm+Fj7gwqWwazkgPd0mvvOaAPG7Qh4nMMwwIJRUK5kKBN1HD4kT2iTxDQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700' rel='stylesheet' type='text/css'>
+    <link href="http://fonts.cdnfonts.com/css/arsenal-2" rel="stylesheet" type='text/css'>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="venn.js"></script>
+
+</head>
+
+<body>
+    <div>
+
+    </div>
+    <div id="container">
+        <div class="text-container">
+            <h1> The World of Super Bowl commercials</h1>
+            <p> With the massive viewership of the Super Bowl, its commercials have become a cultural phenomenon of their own. With a 30 second slot running up costs as much as 5.6 million on average in 2020, companies have to think long and hard on how to
+                make their mark. </p>
+            <p> Using the data collected by FiveThirtyEight on Super Bowl ads from the 10 brands with the most ad spots since 2001, we look at the different approaches of each brand in their Super Bowl commercials. Ads were labelled with the following key
+                criteria: </p>
+            <ol>
+                <li> <span class="category-title category-funny"> Was it funny? </span> <br> Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are a clear “yes” here. Anything serious or dramatic is a “no.”</li>
+                <li> <span class="category-title category-patriotic"> Was it patriotic? </span> <br> Did the commercial make a patriotic appeal or include any American imagery? Any glimpses of an American flag or the words "America" or "United States" counted,
+                    as did references to the armed forces, manufacturing and farming.</li>
+                <li> <span class="category-title category-celebrity"> Did it feature a celebrity? </span> <br> Any ads with recognised celebrities made the list.</li>
+                <li> <span class="category-title category-danger"> Was there any danger or violence?</span> <br> Did we see any violence, threats of violence, injuries, fighting or guns? Any allusions to death also counted here.</li>
+                <li> <span class="category-title category-animals"> Were there any animals? </span> <br> Did an animal — either real or computer-generated — show up at any point in the ad? Even one-frame appearances counted.</li>
+                <li> <span class="category-title category-sex"> Did they use sex to sell? </span> <br> We counted any subtle or overt suggestions of sex, sexuality, sex appeal or nudity.</li>
+            </ol>
+
+            <div id="heatmap">
+                <div class="heatmap-title">Occurence of categories across brands </div>
+                <div class="heatmap-subtitle">Here we see the percentage of ads from a brand that contain a particular category. Hover over the cells for the exact counts for a brand.</div>
+            </div>
+            <br> While it is apparent that humor is the way to go, a single ad might fall under several categories. So perhaps it might be more telling to visualise the overlap in the categories used by brands in their Super Bowl commercials. This is
+            a matter that we will dive into in the next section.
+
+            <br><br><br>
+
+            <h1 style="margin-bottom:5px;"> The Overlap in Advertsing Strategies</h1>
+            In the following charts we see the overlap of themes commonly seen in each brands commercials.
+
+            <div class="All-venn-div large-venn"></div>
+            <br>
+            <span class="note">Note that with the large number of videos and combinations of categories, drawing a perfect euler diagram isn't always possible, so the above is meant to give a sense of what the overlap would look like.
+        <button class="btn">?</button>
+    </span>
+            <div class="note-info">
+                This drawback is apparent in the above chart where the "patriotic" and "celebrity" show no overlap. This however, is not the case in the actual data.
+                <br>
+                <br> Being two of the smaller circles with a much smaller intersection between them, the algorithm decides to avoid any other unintended problems depicting this, in favour of drawing the larger categories and intersections more accurately.
+                <br>
+                <br> This issue is far less common when the number of videos decreases as seen in the later charts.
+            </div>
+
+            <br><br> It seems that humor was the common trait for most of the ads evaluated. Commercials using animals takes the next spot. This might be partly due to the fact that <b>any</b> appearance of an animal counted towards this category regardless
+            of whether the animal was the focus of the ad or not.
+            <hr>
+
+            <div class="Bud-venn-div large-venn"></div>
+            At the top of our list, Bud Light believes that humour is the way to go - of its 60 commercials, 57 of them at least making an attempt at humor.
+            <hr>
+
+            <div class="Budweiser-venn-div large-venn"></div>
+            Budweiser has a much larger focus on animals with more than half of its 42 commercials featuring an animal of some sort.
+            <hr>
+
+            <div class="NFL-venn-div large-venn"></div>
+            The NFL goes another route with its ads - it prefers celebrity appearances and appealing to people's patriotic side in its 11 commercials. Quite notable is the lack of using animals, violence or sex to get audience's attention.
+            <hr>
+            <br><br> Now lets see how the rest of the brands in our top 10 go about their Super Bowl commercials -
+
+        </div>
+        <!-- text-container -->
+        <br><br>
+        <div class="small-multiple-venn">
+            <div class="Doritos-venn-div" style="display: inline-block">
+                <h2>Doritos - 25 commercials</h2>
+            </div>
+
+            <div class="Pepsi-venn-div" style="display: inline-block">
+                <h2>Pepsi - 25 commercials</h2>
+            </div>
+            <br><br><br>
+
+            <div class="Hyundai-venn-div" style="display: inline-block">
+                <h2>Hyundai - 22 </h2>
+            </div>
+
+            <div class="Coca-Cola-venn-div" style="display: inline-block">
+                <h2>Coca-Cola - 22 </h2>
+            </div>
+            <br><br><br>
+
+            <div class="E-Trade-venn-div" style="display: inline-block">
+                <h2>E-Trade - 13 </h2>
+            </div>
+
+            <div class="Toyota-venn-div" style="display: inline-block">
+                <h2>Toyota - 13 </h2>
+            </div>
+            <br><br><br>
+
+            <div class="Kia-venn-div" style="display: inline-block">
+                <h2>Kia - 11 </h2>
+            </div>
+
+            <div class="end-card">
+                With any luck you noticed something that might possibly look out for in the next Super Bowl. Perhaps this even shed some light on the patterns in the entertaining and incredibly expensive world of Super Bowl ads.
+                <br><br><br> Design by: <a href="https://twitter.com/schubertda1"> Schubert de Abreu </a>
+                <br><br> Data: <a href="https://github.com/fivethirtyeight/superbowl-ads"> FiveThirtyEight </a> | <a href="https://projects.fivethirtyeight.com/super-bowl-ads/"> orginal article </a>
+                <br><br> Background: <a href="https://unsplash.com/@icrayton"> Izaac Crayton | Unsplash </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+    <script src="heatmap.js"></script>
+    <script src="annot.js"></script>
+
+    </div>
+
+</body>
+
+</html>

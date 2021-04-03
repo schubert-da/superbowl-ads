@@ -1,0 +1,225 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 14px;
+    margin: 2%;
+    background-image: url("images/backgrounds/bg4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    /* background-size: 100vw 100vh; */
+}
+
+#container {
+    width: 850px;
+    margin: auto;
+    padding: 5px 10px;
+    border: 1px solid black;
+    background: #f0f0f0;
+}
+
+.text-container {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 6px 8px;
+    background: #013369;
+    color: #eee;
+}
+
+h2,
+h3 {
+    margin: 0;
+}
+
+hr {
+    margin: 3px;
+    padding: 0;
+    border-top: 1px solid #4d4d4d;
+}
+
+ol {
+    margin-bottom: 80px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+
+/* category labels styling */
+
+.category-title {
+    padding: 3px 4px;
+    font-size: 18px;
+    font-family: "Helvetica";
+    font-weight: bold;
+}
+
+.category-funny {
+    background-color: rgb(1, 51, 105);
+    color: #fff;
+}
+
+.category-patriotic {
+    background-color: rgb(25, 129, 67);
+    color: #fff;
+}
+
+.category-animals {
+    background-color: rgb(255, 182, 18);
+    color: #fff;
+}
+
+.category-danger {
+    background-color: rgb(168, 0, 28);
+    color: #fff;
+}
+
+.category-celebrity {
+    background-color: rgb(211, 188, 141);
+    color: #fff;
+}
+
+.category-sex {
+    background-color: "grey";
+    color: #222;
+    border: 1px solid #444
+}
+
+
+/* note about venn diagrams */
+
+.note {
+    font-style: italic;
+}
+
+.btn {
+    width: 21px;
+    height: 23px;
+    padding: 0px 3px 0px 2px;
+    margin-left: 3px;
+    color: #4d4d4d;
+    font-style: normal;
+    font-weight: bold;
+    border: 1px solid #666;
+    border-radius: 4px;
+    background: #fff;
+}
+
+.btn:hover {
+    background: #ddd;
+}
+
+.note-info {
+    position: absolute;
+    opacity: 0;
+    width: 600px;
+    border: 1px solid #4d4d4d;
+    background: #fff;
+    padding: 5px 10px;
+    z-index: 2;
+    pointer-events: none;
+}
+
+
+/* venn diagram styling */
+
+.venn-title {
+    position: relative;
+    top: 50px;
+}
+
+.venntooltip {
+    font-size: 14px;
+    position: absolute;
+    text-align: left;
+    background: #fff;
+    color: #222;
+    padding: 4px 4px 0px 4px;
+    border: 1px solid #4d4d4d;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.small-multiple-venn div {
+    width: 45%;
+    margin: 0 2%;
+}
+
+.tooltip-header {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.tooltip-text-title {
+    color: #4d4d4d;
+    font-style: italic;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.tooltip-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+/* heatmap styling */
+
+.cell .label {
+    font-size: 11px;
+    font-family: "Arsenal";
+    font-weight: 400;
+}
+
+.heatmap-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 11%;
+}
+
+.heatmap-subtitle {
+    font-family: Helvetica;
+    font-size: 14px;
+    line-height: 1.1;
+    margin-left: 11%;
+    width: 80%;
+}
+
+.tick line,
+.domain {
+    opacity: 0;
+}
+
+.end-card {
+    display: inline-block;
+    height: 375px;
+    width: 400px !important;
+    vertical-align: top;
+    margin-top: 10px !important;
+    margin-right: 0px !important;
+    padding: 2%;
+    padding-top: 6%;
+    font-size: 16px;
+}
+
+
+/* annotations styling */
+
+.annotation-note-label {
+    fill: #555;
+    font-family: "Arsenal";
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.annotation-note-title {
+    fill: #444;
+    font-family: "Arsenal";
+    font-size: 17px;
+    transform: translate(0px, 4px);
+}
